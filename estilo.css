@@ -1,0 +1,122 @@
+body {
+
+}
+
+header {
+
+    background: black;
+    text-align: center;
+    border-radius: 30px;
+    padding: 5px;
+    color: white;
+    margin: 5px;
+    align-items: center;
+    
+    
+}
+
+.capa {
+
+    margin: 1px;
+    align-items: center;
+    gap: -5rem;
+
+}
+
+.mainaba {
+    background: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+    width: 500px;
+    margin: auto;
+    display: flex;
+    
+   
+    
+
+}
+
+.abas {
+    background: black;
+    border: 1px solid #000;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 10px;
+    color: white;
+    font:   oblique 10pt italic;
+    width: 1000px;
+    box-shadow: 10px 10px 10px gray;
+    }
+
+    .sou {
+
+        min-height: 10vh;
+        padding-top: 3rem;
+        font: normal 15pt arial;
+        display: flex;
+
+
+    }
+
+    .eu {
+        margin: 30px;
+
+    }
+
+    #rannerdia {
+        border-radius: 40px;
+        box-shadow: 10px 10px 10px rgb(24, 23, 23);
+
+    }
+
+    .habilidades {
+        min-height: 20vh;
+        padding-top: 3rem;
+        font: normal 15pt arial;
+        display: flex;
+
+    }
+
+    .vcg {
+
+        margin: 80px;
+    }
+
+    #corrida {
+        border-radius: 40px;
+        box-shadow: 10px 10px 10px rgb(24, 23, 23);
+
+
+    }
+
+    .blogs {
+        min-height: 100vh;
+        padding-top: 3rem;
+        font: normal 15pt arial;
+
+    }
+
+    nav ul {
+
+        position: fixed;
+        height: 2rem;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    #qse {
+        font: oblique 30pt italic;
+        }
+
+    #hbd {
+        font: oblique 30pt italic;
+        }
+    #Bpd {
+        font: oblique 30pt italic;
+        }
+
+
